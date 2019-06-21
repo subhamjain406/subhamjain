@@ -37,20 +37,8 @@ hr {
 }
 
 .top {
-  padding-top: 50px;
+  padding-top: 25px;
   position: relative;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 220px;
-  bottom: 300px;
-}
-
-.top-cloud {
-  position: absolute;
-  right: 240px;
-  top: 100px;
 }
 
 .profile {
